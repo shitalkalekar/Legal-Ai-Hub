@@ -1,0 +1,56 @@
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CRIMINAL APPELLATE JURISDICTION
+
+CRIMINAL APPEAL NO. 1247 OF 2023
+
+State of Maharashtra                        ... Appellant
+    Versus
+Ramesh Kumar Yadav                          ... Respondent
+
+CORAM: HON'BLE MR. JUSTICE A.K. SHARMA
+       HON'BLE MR. JUSTICE P.S. NARASIMHA
+
+DATE OF JUDGMENT: 15th March, 2024
+
+JUDGMENT
+
+A.K. SHARMA, J.
+
+1. This appeal has been filed by the State of Maharashtra challenging the judgment dated 12.09.2022 passed by the High Court of Bombay in Criminal Appeal No. 456 of 2021, whereby the High Court acquitted the respondent-accused of charges under Section 302 of the Indian Penal Code (IPC) for the murder of one Suresh Patil.
+
+BRIEF FACTS:
+
+2. The prosecution case, in brief, is as follows: On the night of 14th July 2020, the deceased Suresh Patil was found dead with multiple stab wounds at his residence in Pune. The FIR was registered at Deccan Police Station under Section 302 IPC. During investigation, the police arrested the accused Ramesh Kumar Yadav, who was the neighbor of the deceased.
+
+3. The prosecution relied upon the following evidence: (a) the testimony of PW-1, the wife of the deceased who claimed to have seen the accused fleeing from the house; (b) recovery of a blood-stained knife from the accused's residence; (c) forensic report matching the blood on the knife with the deceased; and (d) the motive of a long-standing property dispute between the accused and deceased.
+
+4. The Sessions Court convicted the accused under Section 302 IPC and sentenced him to life imprisonment. The High Court, however, reversed the conviction holding that the circumstantial evidence was not sufficient.
+
+ARGUMENTS:
+
+5. The learned counsel for the appellant-State submitted that the High Court erred in acquitting the respondent when the chain of circumstances was complete. The recovery of the murder weapon from the accused's house, the blood matching forensic evidence, and the eyewitness testimony of PW-1 clearly established guilt beyond reasonable doubt. Reliance was placed on the decisions in Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 and Hanumant v. State of Madhya Pradesh AIR 1952 SC 343.
+
+6. The counsel for the respondent-accused argued that PW-1 is an interested witness being the wife of the deceased. The recovery was planted, and no independent witness was examined during the recovery. The forensic report had procedural irregularities in chain of custody. The High Court rightly appreciated the evidence and acquitted the accused.
+
+7. We have carefully considered the submissions of both parties and perused the entire evidence on record.
+
+8. It is well settled that in a case based on circumstantial evidence, the prosecution must establish a complete chain of circumstances leading to the only conclusion of guilt of the accused, excluding every reasonable hypothesis of innocence. We refer to the five golden principles laid down in Sharad Birdhichand Sarda's case.
+
+9. Upon careful examination of the evidence, we find that the testimony of PW-1 suffers from material contradictions. In her examination-in-chief, she stated she saw the accused at 10 PM, but in cross-examination admitted she was in the kitchen and could not clearly identify the person. The recovery of the knife, though significant, was not witnessed by any independent panch witness as required under Section 100 CrPC.
+
+10. The forensic report, though showing blood group match, did not conduct DNA profiling which would have been conclusive. The chain of custody of the seized articles was not properly maintained.
+
+11. In view of the above analysis, we find no merit in this appeal. The prosecution has failed to establish the guilt of the accused beyond reasonable doubt. The circumstantial evidence does not form a complete chain.
+
+FINAL JUDGMENT:
+
+12. The appeal is hereby DISMISSED. The judgment of the High Court acquitting the respondent is upheld. The respondent shall be released forthwith if not required in any other case. No order as to costs.
+
+                                        ..................J.
+                                        (A.K. SHARMA)
+
+                                        ..................J.
+                                        (P.S. NARASIMHA)
+New Delhi;
+March 15, 2024.

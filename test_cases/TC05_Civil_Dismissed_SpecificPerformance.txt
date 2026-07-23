@@ -1,0 +1,71 @@
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO. 4521 OF 2023
+
+M/s. Sunrise Constructions Pvt. Ltd.       ... Appellant
+    Versus
+Rajendra Prasad Gupta & Ors.               ... Respondents
+
+CORAM: HON'BLE MR. JUSTICE ABHAY S. OKA
+       HON'BLE MR. JUSTICE RAJESH BINDAL
+
+DATE OF JUDGMENT: 19th May, 2024
+
+JUDGMENT
+
+ABHAY S. OKA, J.
+
+1. This civil appeal arises out of the judgment and decree dated 30.07.2022 passed by the High Court of Delhi in Regular First Appeal No. 128 of 2020, affirming the decree of the Trial Court directing specific performance of a contract for sale of immovable property.
+
+BRIEF FACTS:
+
+2. The respondent-plaintiff Rajendra Prasad Gupta entered into an Agreement to Sell dated 5th August 2017 with the appellant-defendant M/s. Sunrise Constructions Pvt. Ltd. for purchase of a commercial property bearing No. C-47, Connaught Place, New Delhi, admeasuring 2,800 sq. ft., for a total consideration of Rs. 8.5 crores.
+
+3. As per the agreement, the respondent paid an earnest money deposit of Rs. 1.7 crores (20% of sale consideration). The sale deed was to be executed within 6 months, i.e., by 5th February 2018. The remaining balance of Rs. 6.8 crores was to be paid at the time of registration.
+
+4. The respondent alleges that he was always ready and willing to perform his part of the contract. He obtained a bank loan sanction letter from HDFC Bank for Rs. 5 crores dated 15th January 2018. However, the appellant refused to execute the sale deed claiming that the property value had substantially increased to Rs. 14 crores in the interim period and demanded an additional Rs. 5.5 crores.
+
+5. The respondent filed a suit for specific performance in the Delhi District Court. The Trial Court decreed the suit directing specific performance. The High Court affirmed the decree.
+
+ARGUMENTS:
+
+6. The learned senior counsel for the appellant submitted that the respondent was not ready and willing to perform. The bank loan was insufficient to cover the balance amount. The respondent never tendered the balance consideration. Time was of the essence in the contract as per Clause 12, and the respondent failed to pay within the stipulated 6 months.
+
+7. It was further argued that specific performance is a discretionary remedy under Section 20 of the Specific Relief Act, 1963, and the courts below failed to exercise judicial discretion. The property prices have escalated significantly, and enforcing specific performance would cause undue hardship to the appellant company.
+
+8. The learned counsel for the respondent submitted that readiness and willingness must be assessed holistically. The bank sanction letter demonstrates financial capacity. The respondent sent three legal notices dated 25.01.2018, 10.02.2018, and 01.03.2018 calling upon the appellant to execute the sale deed. The appellant refused each time demanding additional consideration, which amounts to breach of contract.
+
+9. We have considered the submissions and examined the documentary evidence.
+
+10. The law on specific performance is well-settled. Under Section 16(c) of the Specific Relief Act, the plaintiff must plead and prove that he has performed or has always been ready and willing to perform his essential obligations under the contract. In Saradamani Kandappan v. S. Rajalakshmi (2011) 12 SCC 18, this Court held that readiness and willingness must be determined from the conduct of the plaintiff throughout.
+
+11. The evidence establishes the following:
+(a) The respondent obtained a bank loan sanction for Rs. 5 crores on 15.01.2018 — prior to the deadline.
+(b) The respondent had personal savings of Rs. 2.1 crores as evidenced by bank statements (Exhibit P-7).
+(c) Total available funds: Rs. 5 crores (loan) + Rs. 2.1 crores (savings) - Rs. 1.7 crores (already paid) = sufficient to cover Rs. 6.8 crores balance.
+(d) Three legal notices were sent within and after the stipulated period.
+(e) The appellant's refusal was not based on any default by the respondent but solely on the ground that property prices had increased.
+
+12. Regarding the appellant's contention that time was of the essence — in contracts for immovable property, time is ordinarily not of the essence unless expressly made so with a forfeiture clause. Clause 12 merely states a timeframe but does not provide for automatic termination or forfeiture. The principle in Chand Rani v. Kamal Rani (1993) 1 SCC 519 applies.
+
+13. The argument of hardship cannot be accepted. The appellant company is a real estate developer dealing in properties worth crores. The escalation in property value is a foreseeable market phenomenon that cannot constitute hardship under Section 20 of the Specific Relief Act.
+
+14. Both courts below have concurrently found that the respondent was ready and willing. Concurrent findings of fact should not ordinarily be disturbed in appeal unless perverse.
+
+FINAL JUDGMENT:
+
+15. We find no merit in this appeal. The concurrent findings of the Trial Court and the High Court are well-reasoned and based on proper appreciation of evidence. The appeal is hereby DISMISSED.
+
+16. The appellant is directed to execute the sale deed in favour of the respondent within 8 weeks from today, upon the respondent depositing the balance consideration of Rs. 6.8 crores in the Trial Court. In default, the Trial Court shall execute the sale deed through the Court Commissioner.
+
+17. The appeal is dismissed with costs quantified at Rs. 2 lakhs payable to the respondent within 4 weeks.
+
+                                        ..................J.
+                                        (ABHAY S. OKA)
+
+                                        ..................J.
+                                        (RAJESH BINDAL)
+New Delhi;
+May 19, 2024.
